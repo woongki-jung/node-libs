@@ -1,6 +1,6 @@
 {
   "name": "env-initializer",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": ".env crypo tool",
   "keywords": ["dotenv", "security"],
   "main": "dist/index.js",
@@ -20,7 +20,8 @@
   "homepage": "https://github.com/woongki-jung/node-libs/tree/main/env-initializer",
   "repository": {
     "type": "github",
-    "url": "https://github.com/woongki-jung/node-libs/tree/main/env-initializer"
+    "url": "https://github.com/woongki-jung/node-libs/tree/main/env-initializer",
+    "directory": "env-initializer"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.1.1",
