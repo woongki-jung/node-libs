@@ -1,6 +1,6 @@
 {
 	"name": "key-maker-woongs",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"keywords": [
 		"uuid",
 		"unique key"
@@ -15,10 +15,10 @@
 	},
 	"author": "",
 	"license": "MIT",
-	"homepage": "https://github.com/woongki-jung/node-libs/key-maker-woongs",
+	"homepage": "https://github.com/woongki-jung/node-libs/tree/main/key-maker-woongs",
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/woongki-jung/node-libs/key-maker-woongs"
+		"url": "https://github.com/woongki-jung/node-libs/tree/main/key-maker-woongs"
 	},
 	"devDependencies": {
 		"@types/node": "^18.6.4",
